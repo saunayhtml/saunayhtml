@@ -1,16 +1,16 @@
-### Hi there 👋
+##### Hello! I'm Saunay Cerqueira! 👋
 
-<!--
-**saunayhtml/saunayhtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saunay-cerqueira-2752551ba )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_saunay?igshid=YmMyMTA2M2Y= )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nay GitHub stats](https://github-readme-stats.vercel.app/api?username=saunayhtml)
+
+## Tecnologias que estou me aprofundando mais
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aling="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div><br/>
+
+ Email- saunaycerqueira48@gmail.com
