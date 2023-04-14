@@ -1,4 +1,4 @@
-##### Hello! I'm Saunay Cerqueira! 👋
+###### Hello! I'm Saunay Cerqueira! 👽
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saunay-cerqueira-2752551ba )
@@ -7,7 +7,7 @@
 ![Nay GitHub stats](https://github-readme-stats.vercel.app/api?username=saunayhtml)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saunayhtml)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies I use!
+### Technologies I use!
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
